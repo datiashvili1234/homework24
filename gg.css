@@ -1,0 +1,31 @@
+body {
+  background: url(782657.png);
+}
+.div1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+a {
+  color: white;
+}
+.p-1 + {
+  padding-left: 30px;
+}
+
+.h-1 {
+  color: white;
+}
+
+.div2{
+  color: white;
+  margin-left: 90px
+} 
+.b-1{width: 100px;
+  b-1background-color: green;
+  border-radius: 15px;
+  padding: 10px;
+  background-color: green;
+  color: white;
+}
+
